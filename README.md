@@ -10,3 +10,4 @@ git 2
 
 local edit add
 
+test remote merge
