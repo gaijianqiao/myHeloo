@@ -12,3 +12,8 @@ git 2
 
 local edit add
 
+<<<<<<< HEAD
+aab
+=======
+aa
+>>>>>>> cab95dd74faeaaf161aeca515c7a463d024fd83b
